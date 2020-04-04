@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## Aliya's Website
+
+Welcome to Aliya's website.  
+
+
+#My Favourite Foods:
+1. Pasta
+2. Pizza
+3. Pho
+
+
+
+
+
+
+
+
+
+------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/CrystalRose195/CrystalRose195.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
