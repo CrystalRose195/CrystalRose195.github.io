@@ -7,14 +7,34 @@ Welcome to Aliya's website.
 
 
 **My Favourite Foods:**
-1. Pasta
-2. Pizza
+1. Pizza
+2. Pasta
 3. Pho
 
 **My Favourite Shows:**
 1. Once Apon A Time
 2. The Masked Singer
 3. No Good Nick
+
+**My Favourite People in the Family**
+1. EVERYONE!!
+
+**My Favourite Colours**
+1. Purple
+2. Blue
+3. Green
+
+**My Favourite Animals**
+1. Deer
+2. Jaguars
+3. Pandas
+
+**My Favourite Numbers**
+1. 5
+2. 15
+3. 50
+
+********************More About Me Coming Soon!!***********************
 
 
 
