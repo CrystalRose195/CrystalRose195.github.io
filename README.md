@@ -34,7 +34,7 @@ Welcome to Aliya's website.
 2. 15
 3. 50
 
-********************More About Me Coming Soon!!***********************
+*Thanks for Reading!! More about me coming soon!!*
 
 
 
