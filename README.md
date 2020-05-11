@@ -9,12 +9,12 @@ Welcome to Aliya's website.
 **My Favourite Foods:**
 1. Pizza
 2. Pasta
-3. Pho
+3. Tacos
 
 **My Favourite Shows:**
 1. Once Apon A Time
-2. The Masked Singer
-3. No Good Nick
+2. Stranger Things
+3. Idk
 
 **My Favourite People in the Family**
 1. EVERYONE!!
@@ -34,7 +34,12 @@ Welcome to Aliya's website.
 2. 15
 3. 50
 
-*Thanks for Reading!! More about me coming soon!!*
+**My Favourite Roblox Games**
+1. Adopt Me
+2. Royale High
+3. Story games like Break In and Bedtime
+
+
 
 
 
